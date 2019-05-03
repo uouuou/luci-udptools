@@ -1,2 +1,2 @@
-# luci-udptools
-openwrt luci for udpspeeder and udp2raw
+# UDP助手
+ - 在Openwrt中使用 udpspeeder和udp2raw
